@@ -1,6 +1,6 @@
 ## 欢迎来到张可爸爸ljq的主页哈哈哈哈
 哈哈哈哈哈
-You can use the [百度](https://baidu.com) to 狗奥特。and You can use the （https://4399.com） to 实现人生真谛。不客气。。
+You can use the [百度](https://baidu.com) to 狗奥特。and You can use the [HH] (https:4399.COM) to 实现人生真谛。不客气。。
  
 
 
@@ -8,7 +8,7 @@ You can use the [百度](https://baidu.com) to 狗奥特。and You can use the �
 
 不用客气请欣赏哈哈哈哈
 
-《可》
+ # 《可》
 
 my name is 张可，
 
