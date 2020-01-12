@@ -10,11 +10,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>《可》</h1>
+<P>my name is 张可，</P>
+<P>I from CHINA，</P>
+<P>虽然我长得很丑，</P>
+<P>但我依然很开心，</P>
+<P>你知道为什么吗？</P>
+<P>因为我会唱伤不起，</P>
+<p>我还会，唱 跳 rap ! </p>
+<P>AND Play basketball！！！</P>
+<P>喔！ yes  IM A Superman!! </P>
+</body>
+</html>
 - Bulleted
 - List
 
