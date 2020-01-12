@@ -1,6 +1,6 @@
 ## 欢迎来到张可爸爸ljq的主页哈哈哈哈
 哈哈哈哈哈
-You can use the [百度](https://baidu.com) to 狗奥特。and You can use the [HH] (https:4399.COM) to 实现人生真谛。不客气。。
+You can use the [百度](https://baidu.com) to 狗奥特。and You can use the [游戏](https://4399.com) to 实现人生真谛。不客气。。
  
 
 
@@ -35,3 +35,19 @@ AND Play basketball！！！
 ## 啦啦啦
 ### 张可爸爸还没想好
 (⊙o⊙)…
+
+
+
+
+
+## 我tm怎么这么厉害啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+
+
+
+
+
+
+
+
+
